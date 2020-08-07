@@ -5,7 +5,7 @@ aaa
 bbb
 ccc
 
-# <img src="https://raw.githubusercontent.com/halucc/halucc/master/nodejs-2.svg" width="32"> node.js
+# <img src="https://raw.githubusercontent.com/halucc/halucc/master/nodejs-2.svg" width="32"> Node.js
 - test
 
 # <img src="https://raw.githubusercontent.com/halucc/halucc/master/php.svg" width="32"> PHP
