@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-#更新履歴
+# 更新履歴
 
-#node.js
+# node.js
+- test
+
+# PHP
 -test
 
-#PHP
--test
-
-#Java
+# Java
 -test
 
 <!--
