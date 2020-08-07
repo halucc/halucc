@@ -5,8 +5,6 @@ aaa
 bbb
 ccc
 
-# 更新履歴
-
 # node.js
 - test
 
@@ -15,6 +13,11 @@ ccc
 
 # Java
 - test
+
+# 更新履歴
+aaa
+bbb
+ccc
 
 <!--
 **halucc/halucc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
