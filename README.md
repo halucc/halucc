@@ -5,14 +5,16 @@ aaa
 bbb
 ccc
 
+
+# <img src="https://raw.githubusercontent.com/halucc/halucc/master/java.svg" width="32"> Java
+- [JavaMySQLSearch](https://github.com/halucc/JavaMySQLSearch)
+
 # <img src="https://raw.githubusercontent.com/halucc/halucc/master/nodejs-2.svg" width="32"> Node.js
 - test
 
 # <img src="https://raw.githubusercontent.com/halucc/halucc/master/php.svg" width="32"> PHP
 - test
 
-# <img src="https://raw.githubusercontent.com/halucc/halucc/master/java.svg" width="32"> Java
-- [JavaMySQLSearch](https://github.com/halucc/JavaMySQLSearch)
 
 # ⏳更新履歴
 - 2020-08-09 JavaMySQLSearch Upload
