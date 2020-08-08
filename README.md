@@ -12,12 +12,10 @@ ccc
 - test
 
 # <img src="https://raw.githubusercontent.com/halucc/halucc/master/java.svg" width="32"> Java
-- test
+- [JavaMySQLSearch](https://github.com/halucc/JavaMySQLSearch)
 
 # ⏳更新履歴
-aaa
-bbb
-ccc
+- 2020-08-09 JavaMySQLSearch Upload
 
 <!--
 **halucc/halucc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
