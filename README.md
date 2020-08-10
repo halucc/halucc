@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 # 👍about
-[Smile News](https://www.tomato-shop.net/smile2/smile_news2.php)
+[Smile News2](https://www.tomato-shop.net/smile2/smile_news2.php)
 
 [検索ページ](https://www.tomato-shop.net/smile2/golgo_post_ajax2_3site_name3.php)
 
