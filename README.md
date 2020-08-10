@@ -1,9 +1,9 @@
 <!-- ### Hi there 👋 -->
 
 # 👍about
-aaa
-bbb
-ccc
+[Smile News](https://www.tomato-shop.net/smile2/smile_news2.php)
+
+[検索ページ](https://www.tomato-shop.net/smile2/golgo_post_ajax2_3site_name3.php)
 
 
 # <img src="https://raw.githubusercontent.com/halucc/halucc/master/java.svg" width="32"> Java
