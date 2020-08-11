@@ -10,11 +10,9 @@
 - [JavaMySQLSearch](https://github.com/halucc/JavaMySQLSearch) 
     - 標準入力から検索できます
 
-<!--
 # <img src="https://raw.githubusercontent.com/halucc/halucc/master/mysql-7.svg" width="32"> MySQL
-- テーブルを縦につなげる
-    -UNION ALL
--->
+- [テーブルを縦につなげる](https://github.com/halucc/MySQLDoc#%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%92%E7%B8%A6%E3%81%AB%E3%81%A4%E3%81%AA%E3%81%92%E3%82%8Bunion-all)
+    - UNION ALL
 
 # <img src="https://raw.githubusercontent.com/halucc/halucc/master/nodejs-2.svg" width="32"> Node.js
 - test
@@ -24,6 +22,7 @@
 
 
 # ⏳更新履歴
+- 2020-08-11 MySQLDoc upload
 - 2020-08-09 JavaMySQLSearch upload
 
 <!--
