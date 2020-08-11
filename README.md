@@ -10,6 +10,11 @@
 - [JavaMySQLSearch](https://github.com/halucc/JavaMySQLSearch) 
     - 標準入力から検索できます
 
+<!--
+# <img src="https://raw.githubusercontent.com/halucc/halucc/master/mysql-7.svg" width="32"> MySQL
+- test
+-->
+
 # <img src="https://raw.githubusercontent.com/halucc/halucc/master/nodejs-2.svg" width="32"> Node.js
 - test
 
