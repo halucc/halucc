@@ -13,7 +13,7 @@
     - UNION ALL
 
 # <img src="https://raw.githubusercontent.com/halucc/halucc/master/javascript.svg" width="32"> Javascript
-### オブジェクト指向
+#### オブジェクト指向
 - [クラス構文](https://github.com/halucc/ES6class#%E3%83%94%E3%82%AB%E3%83%81%E3%83%A5%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%B9)
     - ピカチュウクラス
 
