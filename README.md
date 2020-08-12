@@ -14,7 +14,7 @@
 - [テーブルを縦につなげる](https://github.com/halucc/MySQLDoc#%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%92%E7%B8%A6%E3%81%AB%E3%81%A4%E3%81%AA%E3%81%92%E3%82%8Bunion-all)
     - UNION ALL
 
-# <img src="https://raw.githubusercontent.com/halucc/halucc/master/nodejs-2.svg" width="32"> Javascript
+# <img src="https://raw.githubusercontent.com/halucc/halucc/master/javascript.svg" width="32"> Javascript
 ### オブジェクト指向構文
 - [クラス構文](https://github.com/halucc/ES6class#%E3%83%94%E3%82%AB%E3%83%81%E3%83%A5%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%B9)
     - ピカチュウクラス
