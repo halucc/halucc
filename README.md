@@ -1,5 +1,3 @@
-<!-- ### Hi there 👋 -->
-
 # 👍about
 - [Smile News2](https://www.tomato-shop.net/smile2/smile_news2.php)
 
@@ -27,21 +25,7 @@
 
 
 # ⏳更新履歴
+- 2020-08-12 JavaMySQLSearch/README.md update
 - 2020-08-12 ES6class upload
 - 2020-08-11 MySQLDoc upload
 - 2020-08-09 JavaMySQLSearch upload
-
-<!--
-**halucc/halucc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
