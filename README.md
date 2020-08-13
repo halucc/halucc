@@ -3,7 +3,9 @@
 ■テスト運用中
 
 ```
-CentOS/Apache/PHP/MySQL/Node.js
+CentOS/Apache
+PHP/MySQL
+Node.js
 ```
 
 - [Smile News2](https://www.tomato-shop.net/smile2/smile_news2.php)
