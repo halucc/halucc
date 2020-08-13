@@ -9,8 +9,7 @@
 
 ```
 CentOS/Apache
-PHP/MySQL
-Node.js
+PHP/MySQL/Node.js
 ```
 
 # <img src="https://raw.githubusercontent.com/halucc/halucc/master/java.svg" width="32"> Java
