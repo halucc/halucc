@@ -19,6 +19,10 @@ PHP/MySQL/Node.js
     - Node.jsからMySQLへデータを登録します
     - 二次元配列
 
+- [node_csv2json](https://github.com/halucc/node_csv2json)
+    - csvファイルをJSON形式のファイルに変換して保存します
+    - コマンドライン引数
+
 # <img src="https://raw.githubusercontent.com/halucc/halucc/master/mysql-7.svg" width="32"> MySQL
 - [テーブルを縦につなげる](https://github.com/halucc/MySQLDoc#%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%92%E7%B8%A6%E3%81%AB%E3%81%A4%E3%81%AA%E3%81%92%E3%82%8Bunion-all)
     - UNION ALL
