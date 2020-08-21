@@ -34,7 +34,7 @@ PHP/MySQL/Node.js
 
 
 # Ruby
-- [RubyMemo](https://github.com/halucc/)
+- [RubyMemo](https://github.com/halucc/RubyMemo) うるう年判定
 
 # <img src="https://raw.githubusercontent.com/halucc/halucc/master/jquery-1.svg" width="32"> jQuery
 - test
